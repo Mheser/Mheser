@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on developing my Python Skills since I'm going to start a Bootcamp in Data Science in Jan'24.
+  
+Soon I'll be posting more info in my profile. More coming up...
 <!--
 **Mheser/Mheser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
